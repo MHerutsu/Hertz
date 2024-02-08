@@ -1,0 +1,25 @@
+*{
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table, th, td, tr {
+    border: 1px solid;
+    width: auto;
+}
+
+th{
+    font-size: 25px;
+}
+
+td{
+    font-size: 20px;
+}
+
